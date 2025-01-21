@@ -9,4 +9,4 @@ other providers cost upward of 165 million dollars each, much of the savings is 
 we can determine the cost of a launch. This information can be used if an alternate company wants to bid against SpaceX for a rocket launch.
 
 
-The project is divided in parts, each one on a different jupyter notebook. For the sake of readability/completeness I have included the code of the whole project in Capstone-project.ipynb
+The project is divided in parts, each one on a different jupyter notebook. For the sake of readability/completeness I have included the code of the whole project in Capstone-project.ipynb. Code for the Dashboard can be found at sacex_dash_app.py
